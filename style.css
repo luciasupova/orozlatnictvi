@@ -1,0 +1,15 @@
+/*
+Theme Name:     Astra Child
+Theme URI:      https://wpastra.com/
+Description:    Child theme by Group 17
+Theme Author:   Group 17
+Template:       astra
+Version:        1.0.0
+Text Domain:    astra-child
+*/
+
+.entry-content h1 {
+    font-size: 550px;
+    font-weight: lighter;
+    line-height: 5.1;
+}
